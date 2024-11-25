@@ -32,7 +32,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpicha3&" alt="gpicha3" /></p>
 
-## 🎥 Demo
+## 📊 GitHub Stats
 
-![Project Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpicha3&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gpicha3&layout=compact)
 
