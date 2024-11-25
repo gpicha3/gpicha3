@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpicha3&" alt="gpicha3" /></p>
 
-- [My Awesome Project](https://github.com/username/my-awesome-project)  
-  ![Stars](https://img.shields.io/github/stars/username/my-awesome-project?style=social)
-  ![Forks](https://img.shields.io/github/forks/username/my-awesome-project?style=social)
-- [Another Cool Repo](https://github.com/username/another-repo)
+## 🎥 Demo
+
+![Project Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
